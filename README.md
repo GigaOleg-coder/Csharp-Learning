@@ -10,4 +10,10 @@ This is my first C# program. I thought that a simple "Hello World" would be too 
 ---
 
 ###  Lesson 2
+#### About
+In this lesson I learned about variables, their explicit and implicit typing, as well as about casting and converting variables, also explicit and implicit
+
+---
+
+### Lesson 3 
 (coming soon)

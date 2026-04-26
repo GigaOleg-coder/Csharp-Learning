@@ -15,8 +15,8 @@ In this lesson I learned about variables, their explicit and implicit typing, as
 
 ---
 
-### Lesson 3 
-#### About: Collections. Array, list and enum.
+### Lesson 3 Collections. Array, list and enum.
+#### About: 
 In this lesson, I learned about collections, arrays, lists, and enum, their syntax, and how to output them to the console.
 
 
